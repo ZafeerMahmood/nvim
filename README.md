@@ -6,6 +6,10 @@ my personal nvim setup
 
 nvim is located at ~/AppData/Local/nvim
 
+## requriments
+
+[packer.vim](https://github.com/wbthomason/packer.nvim)
+
 ## commands
 
 Here are some useful nvim commands:
