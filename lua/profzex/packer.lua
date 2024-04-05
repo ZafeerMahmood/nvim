@@ -6,5 +6,6 @@ return require('packer').startup(function(use)
   use 'rstacruz/vim-closer'
   use {
     'nvim-telescope/telescope.nvim', tag = '0.1.6',
+    require = {{'nvim-lua/plenary.nvim'}}
   }
 end)
