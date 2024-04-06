@@ -9,5 +9,6 @@ return require('packer').startup(function(use)
     require = {{'nvim-lua/plenary.nvim'}}
   }
   use('nvim-treesitter/nvim-treesitter', {run=':TSUpdate'})
+  use 'mbbill/undotree'
   use "nvim-lua/plenary.nvim"
 end)
