@@ -103,6 +103,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "C:\\Users\\Zafeer Mahmood\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-closer",
     url = "https://github.com/rstacruz/vim-closer"
+  },
+  ["vim-fugitive"] = {
+    loaded = true,
+    path = "C:\\Users\\Zafeer Mahmood\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-fugitive",
+    url = "https://github.com/tpope/vim-fugitive"
   }
 }
 
